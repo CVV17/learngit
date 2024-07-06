@@ -1,1 +1,2 @@
-print"hello world! hello Git"
+print"hello world! hello Git"+++++
+git stash;
